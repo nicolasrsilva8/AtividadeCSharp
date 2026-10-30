@@ -1,0 +1,14 @@
+C:\Users\55506754809\Desktop\DotNet\atividadeCSharp\bin\Debug\net10.0\AtividadeCSharp.exe
+C:\Users\55506754809\Desktop\DotNet\atividadeCSharp\bin\Debug\net10.0\AtividadeCSharp.deps.json
+C:\Users\55506754809\Desktop\DotNet\atividadeCSharp\bin\Debug\net10.0\AtividadeCSharp.runtimeconfig.json
+C:\Users\55506754809\Desktop\DotNet\atividadeCSharp\bin\Debug\net10.0\AtividadeCSharp.dll
+C:\Users\55506754809\Desktop\DotNet\atividadeCSharp\bin\Debug\net10.0\AtividadeCSharp.pdb
+C:\Users\55506754809\Desktop\DotNet\atividadeCSharp\obj\Debug\net10.0\AtividadeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55506754809\Desktop\DotNet\atividadeCSharp\obj\Debug\net10.0\AtividadeCSharp.AssemblyInfoInputs.cache
+C:\Users\55506754809\Desktop\DotNet\atividadeCSharp\obj\Debug\net10.0\AtividadeCSharp.AssemblyInfo.cs
+C:\Users\55506754809\Desktop\DotNet\atividadeCSharp\obj\Debug\net10.0\AtividadeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\55506754809\Desktop\DotNet\atividadeCSharp\obj\Debug\net10.0\AtividadeCSharp.dll
+C:\Users\55506754809\Desktop\DotNet\atividadeCSharp\obj\Debug\net10.0\refint\AtividadeCSharp.dll
+C:\Users\55506754809\Desktop\DotNet\atividadeCSharp\obj\Debug\net10.0\AtividadeCSharp.pdb
+C:\Users\55506754809\Desktop\DotNet\atividadeCSharp\obj\Debug\net10.0\AtividadeCSharp.genruntimeconfig.cache
+C:\Users\55506754809\Desktop\DotNet\atividadeCSharp\obj\Debug\net10.0\ref\AtividadeCSharp.dll
